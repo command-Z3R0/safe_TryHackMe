@@ -16,6 +16,7 @@ sudo ./safe_TryHackMe.sh <ip of deployed machine>
 ```
 
 -----------------------------------------------------------------------------------------------------
-This script is updated but is based on Wh1teDrvg0n repository[(https://github.com/Wh1teDrvg0n/safeVPN-THM)].
+This script is updated but is based on Wh1teDrvg0n 
+     -> https://github.com/Wh1teDrvg0n/safeVPN-THM.
 -----------------------------------------------------------------------------------------------------
 Don't forget to give a star to Wh1teDrvg0n's repository :wink:
