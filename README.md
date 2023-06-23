@@ -14,6 +14,10 @@ An iptables rule that only allows incoming connections from machines on TryHackM
 sudo chmod +x ./safe_TryHackMe.sh
 sudo ./safe_TryHackMe.sh <ip of deployed machine>
 ```
+-----------------------------------------------------------------------------------------------------
+
+:heavy_check_mark: Tested in Arch linux
+:heavy_check_mark: Debian
 
 -----------------------------------------------------------------------------------------------------
 This script is updated but is based on Wh1teDrvg0n 
