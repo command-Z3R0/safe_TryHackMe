@@ -16,9 +16,9 @@ sudo ./safe_TryHackMe.sh <ip of deployed machine>
 ```
 -----------------------------------------------------------------------------------------------------
 
-Tested in :
+Tested on :
 
-:heavy_check_mark: Arch linux
+ :heavy_check_mark: Arch linux
 
 :heavy_check_mark: Debian
 
